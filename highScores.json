@@ -1,0 +1,17 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "name": "John",
+      "score": "30"
+    },
+    {
+      "name": "Ann",
+      "score": "25"
+    },
+    {
+      "name": "Bill",
+      "score": "10"
+    }
+  ]
+}
