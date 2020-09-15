@@ -1,7 +1,57 @@
 {
   "highScores": [
-    { "name": "John", "score": "30" },
-    { "name": "Ann", "score": "25" },
-    { "name": "Bill", "score": "10" }
+    { "name": "John", "score": "30", "game": "4" },
+    { "name": "Ann", "score": "25", "game": "6" },
+    { "name": "Bill", "score": "10", "game": "1" }
+  ],
+  "questions": [
+    {
+      "category": "Fresh Tea Series",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the correct formula for Supreme Jasmin Green Tea(Normal Ice)?",
+      "correct_answer": "Sugar: 100% 60g, TeaBag: Method: 250cc + Sugar Syrup + Ice up to 900mL in Shaker",
+      "incorrect_answers": [
+        "Sugar: 100% 60g, TeaBag: Method: 300cc + Sugar Syrup + Ice up to 900mL in Shaker",
+        "Sugar: 100% 68g, TeaBag: Method: 250cc + Sugar Syrup + Ice up to 900mL in Shaker",
+        "Sugar: 100% 68g, TeaBag: Method: 300cc + Sugar Syrup + Ice up to 900mL in Shaker"
+      ]
+    },
+    {
+      "category": "Fresh Tea Series",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the correct formula for Supreme Jasmin Green Tea(Less Ice)?",
+      "correct_answer": "Sugar: 100% 60g, TeaBag: Method: 300cc + Sugar Syrup + Ice up to 900mL in Shaker",
+      "incorrect_answers": [
+        "Sugar: 100% 60g, TeaBag: Method: 250cc + Sugar Syrup + Ice up to 900mL in Shaker",
+        "Sugar: 100% 68g, TeaBag: Method: 300cc + Sugar Syrup + Ice up to 900mL in Shaker",
+        "Sugar: 100% 68g, TeaBag: Method: 250cc + Sugar Syrup + Ice up to 900mL in Shaker"
+      ]
+    },
+    {
+      "category": "Fresh Tea Series",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the correct formula for Japanese Genmaicha(Normal Ice)?",
+      "correct_answer": "Sugar: 100% 60g, TeaBag: Method: 250cc + Sugar Syrup + Ice up to 900mL in Shaker",
+      "incorrect_answers": [
+        "Sugar: 100% 60g, TeaBag: Method: 300cc + Sugar Syrup + Ice up to 900mL in Shaker",
+        "Sugar: 100% 68g, TeaBag: Method: 250cc + Sugar Syrup + Ice up to 900mL in Shaker",
+        "Sugar: 100% 68g, TeaBag: Method: 300cc + Sugar Syrup + Ice up to 900mL in Shaker"
+      ]
+    }, 
+    {
+      "category": "Fresh Tea Series",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the correct formula for Japanese Genmaicha(Less Ice)?",
+      "correct_answer": "Sugar: 100% 60g, TeaBag: Method: 300cc + Sugar Syrup + Ice up to 900mL in Shaker",
+      "incorrect_answers": [
+        "Sugar: 100% 60g, TeaBag: Method: 250cc + Sugar Syrup + Ice up to 900mL in Shaker",
+        "Sugar: 100% 68g, TeaBag: Method: 300cc + Sugar Syrup + Ice up to 900mL in Shaker",
+        "Sugar: 100% 68g, TeaBag: Method: 250cc + Sugar Syrup + Ice up to 900mL in Shaker"
+      ]
+    } 
   ]
 }
